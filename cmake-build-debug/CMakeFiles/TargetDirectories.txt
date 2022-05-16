@@ -1,0 +1,3 @@
+/ssd/c++/cmake-build-debug/CMakeFiles/c__.dir
+/ssd/c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/ssd/c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
